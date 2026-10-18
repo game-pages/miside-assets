@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "candidate": "formal-opening-034",
+  "release": "formal-opening-034-dee89a24fc15",
+  "encoding": "br",
+  "originalBytes": 922041580,
+  "compressedBytes": 727017774,
+  "assets": [
+    {
+      "path": "Build/unity-fullgame.data",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/Build/unity-fullgame.data.br",
+      "encoding": "br",
+      "bytes": 99698016,
+      "sha256": "e80d9a3af7c395da444be567df5d2365b7edb889bc2efc1a5d760feff7788d56",
+      "originalBytes": 124829459,
+      "originalSha256": "e8951ef94abfcb0b421171c707d27421548194a0b5bf9899e4be8613ddc6f255",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "Build/unity-fullgame.wasm",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/Build/unity-fullgame.wasm.br",
+      "encoding": "br",
+      "bytes": 14734737,
+      "sha256": "e38b6362eee8e3c78b58eb76d599b7cb2e6f420d91d045ab2a06ceb5424ed42a",
+      "originalBytes": 86919367,
+      "originalSha256": "3f76f58597c651b3ceffc3d24eb8941edc70bd8b905ce3cbff5fccb4eca86a42",
+      "contentType": "application/wasm"
+    },
+    {
+      "path": "chapters/chapter-level10.e966489701c1c5251c9f732d9c9e2720.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level10.e966489701c1c5251c9f732d9c9e2720.bundle.br",
+      "encoding": "br",
+      "bytes": 51458287,
+      "sha256": "c6b0fc8bda780f44c884210a9b9fb03dff47716a8713b394f9079fd842eec8bc",
+      "originalBytes": 58743339,
+      "originalSha256": "716fb5e13a391b3047f045ae93f2392247f10a360308c1112412c3953454b72d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level11.e6bb0f276273bc23389aef4ef6764df8.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level11.e6bb0f276273bc23389aef4ef6764df8.bundle.br",
+      "encoding": "br",
+      "bytes": 31563531,
+      "sha256": "354378b53c3470a4ae777dff6cfb23b4c984d6265e8cd34f104946e878cfd1d9",
+      "originalBytes": 36144608,
+      "originalSha256": "db31a15f06fa5152d8b9b26a6af9d9670d0fc35a038947d579521e21f595ce7d",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level12-games.153a5cba857aa84a07ab08a24df75cfe.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level12-games.153a5cba857aa84a07ab08a24df75cfe.bundle.br",
+      "encoding": "br",
+      "bytes": 33140229,
+      "sha256": "4019d754e43386eea1bf9cfc446d37c05bbcbac09a786ae12911d60d29850bcb",
+      "originalBytes": 38551280,
+      "originalSha256": "56ff068857f9b9a06e43cf94898949736a48bd49583ef5671d9b49607f8e1257",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level12.1d15b6debff032367f5bbede47c12cff.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level12.1d15b6debff032367f5bbede47c12cff.bundle.br",
+      "encoding": "br",
+      "bytes": 72855739,
+      "sha256": "6bee6c7e21f45f587b1106704ae784c6e44b08a6b31aa26ddff4fd1e90037b6e",
+      "originalBytes": 85913265,
+      "originalSha256": "9e96c8ea4e35034b725e0c2bec16c46c2b9ffd4a80dea317826537f79605fafe",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level4.08c97643d50bd323de0d138cd0e687a4.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level4.08c97643d50bd323de0d138cd0e687a4.bundle.br",
+      "encoding": "br",
+      "bytes": 54846881,
+      "sha256": "32d7a5ff0cf275cdef97328cee1d0c2c8cb79846ce8e201c47b4463ec6a813a1",
+      "originalBytes": 63476035,
+      "originalSha256": "66b7180e598f054f16a4bf284b5373ab06ea02f5540ef3ae984d1ff43f59f819",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level5.b50f235a073394765181d004b198a8f8.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level5.b50f235a073394765181d004b198a8f8.bundle.br",
+      "encoding": "br",
+      "bytes": 67719013,
+      "sha256": "8c74bc38357a4b34fa18415e6d1b3b840e1cdc8582427eb51eaf636f0771039a",
+      "originalBytes": 78383544,
+      "originalSha256": "a690fc607475893f8fc6483700e92e048035d84ef5a01c7cafe700659b23a1e8",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level6-games.9d90b44e3584482022699a07c7ac1fce.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level6-games.9d90b44e3584482022699a07c7ac1fce.bundle.br",
+      "encoding": "br",
+      "bytes": 5242789,
+      "sha256": "57234e62f1450dcd3d233282cec6381052933942a15f441689643f97ab67ff82",
+      "originalBytes": 5935372,
+      "originalSha256": "9ccd81d26a9209dbc201f89f3265603a4f0a87518946826e3676526622d2fe9e",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level6.fa726d79b6d8f8dcd43f52a73472d66b.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level6.fa726d79b6d8f8dcd43f52a73472d66b.bundle.br",
+      "encoding": "br",
+      "bytes": 64112249,
+      "sha256": "cb1f34c5ed0be4e68ce85c75082bf38701e3050edd6b8c229b28df911eb95041",
+      "originalBytes": 73508321,
+      "originalSha256": "b616c44f566e1787252efe094425d914ef313bf190e1b2dc88f8ed46b7485fbf",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level7.c67c2b19b7e4c2aeb9348fc2e090f260.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level7.c67c2b19b7e4c2aeb9348fc2e090f260.bundle.br",
+      "encoding": "br",
+      "bytes": 52039817,
+      "sha256": "fecd4e87eb056f678425ebe97c9d53e2384ee7559c98ded55d65fbb457f9a6c5",
+      "originalBytes": 60337167,
+      "originalSha256": "ddb6d0ef79e0860a664fabe54dba0f0c8d2f63faeec27f5d728e4b6853137010",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level8.0b5302a4562bf6df3a7cb086f3d0d68e.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level8.0b5302a4562bf6df3a7cb086f3d0d68e.bundle.br",
+      "encoding": "br",
+      "bytes": 70210523,
+      "sha256": "7bc0e2ef1b7917fb06d673bf6867512dfd7d8de740e1cbad6ac7c10c948f1b15",
+      "originalBytes": 81291322,
+      "originalSha256": "e2518d84ae7f3a483a17d18c47814016ba9499000fada85c01d8d4895b0fdd70",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "chapters/chapter-level9.d8f4c5103caa53abc37d2237467d8ce9.bundle",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/chapters/chapter-level9.d8f4c5103caa53abc37d2237467d8ce9.bundle.br",
+      "encoding": "br",
+      "bytes": 104655746,
+      "sha256": "12181348f27dbe147b95ee6ccd3b81d8de342d4489762d39433f39dae9b6a4a6",
+      "originalBytes": 120778857,
+      "originalSha256": "f1bb533b006642d23e80398cd150c7fa3ee0e0cc21a17c0547ed560863eef7f6",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "path": "data.bin",
+      "remotePath": "/releases/formal-opening-034-dee89a24fc15/data.bin.br",
+      "encoding": "br",
+      "bytes": 4740217,
+      "sha256": "de624c609cd4f3a5994f60b8c68e0364374b12fe1a0651e61bee7036264ca2f6",
+      "originalBytes": 7229644,
+      "originalSha256": "bb794f9100423119dfd88817a8b14ec2b2e0290f8886ea097bc22e76a271aac2",
+      "contentType": "application/octet-stream"
+    }
+  ]
+}
