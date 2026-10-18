@@ -1,5 +1,5 @@
 # MiSide Web assets
 
-Versioned Brotli-compressed resources for https://miside.cfnav.me/.
+Versioned Brotli resources for https://miside.cfnav.me/. The current public player uses a 1920×1080 canvas and includes chapters 1–10. Unchanged resources retain their existing versioned URLs.
 
-This repository stores the formal-opening-034-dee89a24fc15 development preview assets. Files are served through the game origin with their original MIME types and `Content-Encoding: br`.
+Current resource manifest: `releases/formal-opening-035-public-5f664d51d5a1/asset-manifest.json`.
